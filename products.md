@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Products
 layout: services
 description: Services
 intro_image: "images/illustrations/services.png"
