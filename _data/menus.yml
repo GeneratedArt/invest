@@ -5,8 +5,8 @@ main:
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Products"
+    url: "/products/"
     weight: 3
   - name: "Demo"
     url: "/demo/"
@@ -15,19 +15,19 @@ main:
     url: "/contact/"
     weight: 5
   - name: "/es"
-    url: "https://expo.es.generatedart.com"
+    url: "https://invest.es.generatedart.com"
     weight: 6
   - name: "/pt"
-    url: "https://expo.pt.generatedart.com"
+    url: "https://invest.pt.generatedart.com"
     weight: 7
   - name: "/fr"
-    url: "https://expo.fr.generatedart.com"
+    url: "https://invest.fr.generatedart.com"
     weight: 8
   - name: "/de"
-    url: "https://expo.de.generatedart.com"
+    url: "https://invest.de.generatedart.com"
     weight: 9
   - name: "/it"
-    url: "https://expo.it.generatedart.com"
+    url: "https://invest.it.generatedart.com"
     weight: 10
 
 footer:
